@@ -64,7 +64,7 @@ set "WSL_SOURCE=\\wsl.localhost\Ubuntu-20.04\home\nodes\release\*.zip"
 set "ARDUPILOT_DIR=%~dp0ardupilot (4.5.x)"
 set "VANDIPLAY_V2_SOURCE=D:\intosky\Android\VandiPlay-master\mygcs\release\*.apk"
 set "VANDIPLAY_V2_DIR=%~dp0vandiplay (v2)"
-set "VANDIPLAY_V3_SOURCE=d:\intosky\Android\VandiPlay-noztosky\mygcs\build\outputs\apk\release\*.apk"
+set "VANDIPLAY_V3_SOURCE=D:\intosky\Android\VandiPlay-noztosky\mygcs\release\*.apk"
 set "VANDIPLAY_V3_DIR=%~dp0vandiplay (v3)"
 
 :: 파일 복사 실행
